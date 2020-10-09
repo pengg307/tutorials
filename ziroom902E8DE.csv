@@ -1,0 +1,26 @@
+Essid,Bssid,Canal,Autenticacion,Cifrado,Tipo de red,RSSi,Calidad,Clave por defecto
+901,50:64:2B:DC:D4:47,7,WPA2_PSK,TKIP+AES,Infrastructure,-77 dbm,  38%,- - - - - - -
+ziroom902,50:FA:84:53:E8:DE,13,WPA2_PSK,TKIP+AES,Infrastructure,-59 dbm,  68%,- - - - - - -
+Xiaomi_EF16,8C:53:C3:53:EF:17,9,WPA2_PSK,TKIP+AES,Infrastructure,-80 dbm,  33%,- - - - - - -
+jinwu1002,9C:A6:15:FA:08:B1,6,WPA2_PSK,TKIP+AES,Infrastructure,-53 dbm,  78%,- - - - - - -
+ty100a,00:0A:EB:D9:FF:3A,6,Open,None,Infrastructure,-72 dbm,  46%,- - - - - - -
+helu,68:DB:54:D3:43:0A,4,WPA2_PSK,TKIP+AES,Infrastructure,-85 dbm,  25%,- - - - - - -
+Ziroom602,D4:EE:07:67:6D:2C,4,WPA2_PSK,TKIP+AES,Infrastructure,-86 dbm,  23%,- - - - - - -
+1006,D4:EE:07:5B:18:80,9,WPA2_PSK,TKIP+AES,Infrastructure,-80 dbm,  33%,- - - - - - -
+linlodge-801,08:10:77:4A:9C:90,6,WPA2_PSK,TKIP+AES,Infrastructure,-85 dbm,  25%,- - - - - - -
+CityHome,50:64:2B:0F:C0:C2,11,WPA2_PSK,TKIP+AES,Infrastructure,-63 dbm,  61%,- - - - - - -
+inlodge,FC:C8:97:9A:71:92,13,WPA2_PSK,TKIP+AES,Infrastructure,-82 dbm,  30%,- - - - - - -
+inlodge,84:74:2A:48:91:E4,3,WPA2_PSK,TKIP+AES,Infrastructure,-84 dbm,  26%,- - - - - - -
+CityHome,50:64:2B:0F:9F:D1,1,WPA2_PSK,TKIP+AES,Infrastructure,-67 dbm,  55%,- - - - - - -
+inlodge,FC:C8:97:9A:89:EC,3,WPA2_PSK,TKIP+AES,Infrastructure,-54 dbm,  76%,- - - - - - -
+,D8:B0:4C:FE:2C:D4,11,WPA2_PSK,TKIP+AES,Infrastructure,-83 dbm,  28%,- - - - - - -
+ziroom1101,D4:EE:07:60:A3:E4,10,WPA2_PSK,TKIP+AES,Infrastructure,-78 dbm,  36%,- - - - - - -
+inlodge,FC:C8:97:9F:8D:9C,3,WPA2_PSK,TKIP+AES,Infrastructure,-79 dbm,  35%,- - - - - - -
+1206,BC:54:FC:05:C7:CC,12,WPA2_PSK,TKIP+AES,Infrastructure,-87 dbm,  21%,- - - - - - -
+TP-LINK_4B4C,78:44:FD:91:4B:4C,1,WPA2_PSK,TKIP+AES,Infrastructure,-85 dbm,  25%,- - - - - - -
+202,68:DB:54:EE:2F:5A,4,WPA2_PSK,TKIP+AES,Infrastructure,-73 dbm,  45%,- - - - - - -
+TP-LINK_9323,D0:76:E7:79:17:01,6,WPA2_PSK,TKIP+AES,Infrastructure,-85 dbm,  25%,- - - - - - -
+1005,50:D2:F5:B2:04:27,8,WPA2_PSK,TKIP+AES,Infrastructure,-86 dbm,  23%,- - - - - - -
+inlodge,C8:64:C7:23:5C:D9,1,WPA2_PSK,TKIP+AES,Infrastructure,-70 dbm,  50%,- - - - - - -
+inlodge,FC:C8:97:9A:61:28,3,WPA2_PSK,TKIP+AES,Infrastructure,-72 dbm,  46%,- - - - - - -
+Netcore,08:10:77:4A:78:EA,6,Open,None,Infrastructure,-75 dbm,  41%,- - - - - - -
