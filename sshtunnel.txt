@@ -1,0 +1,6 @@
+ssh -f tunvpn.com@167.71.253.188 -L 7070:167.71.253.188:22 -N -C
+netstat -npl | grep 7070  #tulpn
+ps -aux | grep 7070   #afx
+export http_proxy=
+export https_proxy=socks5://127.0.0.1:7070
+export http_proxy=socks5://127.0.0.1:7070
