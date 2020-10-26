@@ -1,0 +1,25 @@
+https://blog.csdn.net/weixin_42167759/article/details/90648225
+$ timedatectl
+                      Local time: Mon 2020-10-26 08:39:41 PDT
+                  Universal time: Mon 2020-10-26 15:39:41 UTC
+                        RTC time: Mon 2020-10-26 15:39:41
+                       Time zone: America/Los_Angeles (PDT, -0700)
+       System clock synchronized: no
+systemd-timesyncd.service active: yes
+                 RTC in local TZ: no
+$ timedatectl set-timezone "Asia/Shanghai"
+$ timedatectl
+                      Local time: Mon 2020-10-26 23:41:02 CST
+                  Universal time: Mon 2020-10-26 15:41:02 UTC
+                        RTC time: Mon 2020-10-26 15:41:02
+                       Time zone: Asia/Shanghai (CST, +0800)
+       System clock synchronized: no
+systemd-timesyncd.service active: yes
+                 RTC in local TZ: no
+
+
+
+https://www.cnblogs.com/saneri/p/8310075.html
+
+
+
