@@ -1,0 +1,7 @@
+echo LANG=en_US.UTF-8 > /etc/locale.conf
+ls /etc/local*
+/etc/locale.alias  /etc/locale.conf  /etc/locale.gen  /etc/localtime
+export | grep LANG
+declare -x LANG="ko_KR.UTF-8"
+export LANG=en_US.UTF-8
+export | grep KR
