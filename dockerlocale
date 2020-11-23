@@ -5,3 +5,6 @@ export | grep LANG
 declare -x LANG="ko_KR.UTF-8"
 export LANG=en_US.UTF-8
 export | grep KR
+
+locale-gen de_DE.UTF-8
+update-locale LANG=de_DE.UTF-8
